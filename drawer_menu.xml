@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_scientific"
+        android:title="Scientific Calculator"
+        android:icon="@android:drawable/ic_menu_manage" />
+
+    <item
+        android:id="@+id/nav_loan"
+        android:title="Loan Calculator"
+        android:icon="@android:drawable/ic_menu_edit" />
+
+    <item
+        android:id="@+id/nav_age"
+        android:title="Age Calculator"
+        android:icon="@android:drawable/ic_menu_my_calendar" />
+    <item
+        android:id="@+id/nav_about"
+        android:title="About Us"
+        android:icon="@android:drawable/ic_menu_info_details"/>
+</menu>
